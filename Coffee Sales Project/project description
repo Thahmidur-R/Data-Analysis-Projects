@@ -1,2 +1,2 @@
 In this project I created a dashboard using coffee sales data. I was able to work on using Xlookups to populate certain fields. I also used pivot tables to easily create charts out of the data. 
-There are slicers applied to allow the user to filter the data. This project helped improve my ability to display meaningful data in an appealing and informative manner.
+There are slicers applied to allow the user to filter the data as well as a timeline so users can navigate through data across different periods seamlessly. 
